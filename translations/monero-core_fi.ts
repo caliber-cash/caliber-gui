@@ -353,8 +353,8 @@
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="93"/>
-        <source>WARNING: Do not reuse your Monero keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
-        <translation>VAROITUS: Älä käytä uudelleen Monero avaimiasi toisella haaralla, PAITSI jos tähän haaraan on rakennettu asiaankuuluvia mekanismeja. Tämän tekeminen vaarantaa yksityisyytesi.</translation>
+        <source>WARNING: Do not reuse your Caliber keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
+        <translation>VAROITUS: Älä käytä uudelleen Caliber avaimiasi toisella haaralla, PAITSI jos tähän haaraan on rakennettu asiaankuuluvia mekanismeja. Tämän tekeminen vaarantaa yksityisyytesi.</translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="143"/>
@@ -610,8 +610,8 @@
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="82"/>
-        <source>Mining with your computer helps strengthen the Monero network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Monero. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
-        <translation>Louhinta tietokoneellasi auttaa vahvistamaan Monero-verkkoa. Mitä enemmän louhitaan, sen vaikeampaa on hyökätä verkkoa vastaan.&lt;br&gt; &lt;br&gt;Louhinta myös mahdollistaa Moneron ansaitsemisen. Tietokoneesi luo tiivisteitä etsien lohkoratkaisua. Jos löydät lohkon, saat siihen kuuluvan palkkion. Onnea! </translation>
+        <source>Mining with your computer helps strengthen the Caliber network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Caliber. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
+        <translation>Louhinta tietokoneellasi auttaa vahvistamaan Caliber-verkkoa. Mitä enemmän louhitaan, sen vaikeampaa on hyökätä verkkoa vastaan.&lt;br&gt; &lt;br&gt;Louhinta myös mahdollistaa Calibern ansaitsemisen. Tietokoneesi luo tiivisteitä etsien lohkoratkaisua. Jos löydät lohkon, saat siihen kuuluvan palkkion. Onnea! </translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="95"/>
@@ -867,13 +867,13 @@
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="138"/>
-        <source>With more Monero</source>
-        <translation>Lisää Moneroja</translation>
+        <source>With more Caliber</source>
+        <translation>Lisää Caliberja</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="139"/>
-        <source>With not enough Monero</source>
-        <translation>Ei riittävästi Moneroja</translation>
+        <source>With not enough Caliber</source>
+        <translation>Ei riittävästi Caliberja</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="141"/>
@@ -1041,8 +1041,8 @@
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="89"/>
-        <source>Embedded Monero version: </source>
-        <translation>Sulautettu Monero -versio: </translation>
+        <source>Embedded Caliber version: </source>
+        <translation>Sulautettu Caliber -versio: </translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="118"/>
@@ -1164,13 +1164,13 @@ Vanha lompakkovälimuistitiedosto nimetään uudelleen ja voidaan palauttaa myö
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="232"/>
-        <source>Uses a third-party server to connect to the Monero network. Less secure, but easier on your computer.</source>
-        <translation>Käyttää kolmannen osapuolen palvelinta Monero-verkkoon yhdistämiseksi. Vähemmän turvallinen mutta helpompi tietokoneelle.</translation>
+        <source>Uses a third-party server to connect to the Caliber network. Less secure, but easier on your computer.</source>
+        <translation>Käyttää kolmannen osapuolen palvelinta Caliber-verkkoon yhdistämiseksi. Vähemmän turvallinen mutta helpompi tietokoneelle.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="277"/>
-        <source>To find a remote node, type &apos;Monero remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
-        <translation>Etäverkkosolmun löytämiseksi kirjoita &apos;Monero remote node&apos; valitsemaasi hakukoneeseen. Varmista, että luotettava taho operoi solmua.</translation>
+        <source>To find a remote node, type &apos;Caliber remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
+        <translation>Etäverkkosolmun löytämiseksi kirjoita &apos;Caliber remote node&apos; valitsemaasi hakukoneeseen. Varmista, että luotettava taho operoi solmua.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="291"/>
@@ -1326,8 +1326,8 @@ Vanha lompakkovälimuistitiedosto nimetään uudelleen ja voidaan palauttaa myö
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="106"/>
-        <source>This page allows you to interact with the shared ring database. This database is meant for use by Monero wallets as well as wallets from Monero clones which reuse the Monero keys.</source>
-        <translation>Tämä sivu mahdollistaa rengastietokannan käsittelyn. Tämä tietokanta on tarkoitettu vain Monero-lompakoille ja myös Monero-klooneille jotka uudelleenkäyttävät Monero avaimia. </translation>
+        <source>This page allows you to interact with the shared ring database. This database is meant for use by Caliber wallets as well as wallets from Caliber clones which reuse the Caliber keys.</source>
+        <translation>Tämä sivu mahdollistaa rengastietokannan käsittelyn. Tämä tietokanta on tarkoitettu vain Caliber-lompakoille ja myös Caliber-klooneille jotka uudelleenkäyttävät Caliber avaimia. </translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="119"/>
@@ -1343,8 +1343,8 @@ Vanha lompakkovälimuistitiedosto nimetään uudelleen ja voidaan palauttaa myö
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="122"/>
-        <source>In order to obscure which inputs in a Monero transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection Monero uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the Monero project and is available on the getmonero.org website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing Monero clones) yourself using the monero-blockchain-blackball tool to create a list of known spent outputs.&lt;br&gt;</source>
-        <translation>Lähtöjen peittämiseksi Monero-siirroissa kolmannen osapuolen ei tulisi pystyä määrittämään mitkä tulot renkaassa ovat tiedetysti kulutetut. Mikäli määritys onnistuu, heikentäisi se rengasallekirjoitusten tarjoaman suojan. Jos kaikki paitsi yksi tulo tiedetään kulutetun, tosiasiassa kulutettu tulo paljastuu, jonka seurauksena renkaalla ei ole enää merkitystä, koska rengas on yksi kolmesta yksityisyydensuojan tasosta jota Monero käyttää.&lt;br&gt;Siirtoja voi helpottaa välttämään näitä tuloja, listaa tiedetyistä kulutetuista voidaan käyttää jotta vältetään niiden käyttö uusissa siirroissa. Tälläistä listaa ylläpitää Monero-projekti ja se on saatavilla getmonero.org -sivulla, josta sen voi hakea.&lt;br&gt;Vaihtoehtoisesti voit skannata lohkoketjun (ja avaimia uudelleenkäyttäviä Monero-klooneja) itse käyttäen monero-blockchain-blackball työkalua luodaksesi listan tiedetyistä kulutetuista lähdöistä.&lt;br&gt;</translation>
+        <source>In order to obscure which inputs in a Caliber transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection Caliber uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the Caliber project and is available on the getcaliber.org website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing Caliber clones) yourself using the caliber-blockchain-blackball tool to create a list of known spent outputs.&lt;br&gt;</source>
+        <translation>Lähtöjen peittämiseksi Caliber-siirroissa kolmannen osapuolen ei tulisi pystyä määrittämään mitkä tulot renkaassa ovat tiedetysti kulutetut. Mikäli määritys onnistuu, heikentäisi se rengasallekirjoitusten tarjoaman suojan. Jos kaikki paitsi yksi tulo tiedetään kulutetun, tosiasiassa kulutettu tulo paljastuu, jonka seurauksena renkaalla ei ole enää merkitystä, koska rengas on yksi kolmesta yksityisyydensuojan tasosta jota Caliber käyttää.&lt;br&gt;Siirtoja voi helpottaa välttämään näitä tuloja, listaa tiedetyistä kulutetuista voidaan käyttää jotta vältetään niiden käyttö uusissa siirroissa. Tälläistä listaa ylläpitää Caliber-projekti ja se on saatavilla getcaliber.org -sivulla, josta sen voi hakea.&lt;br&gt;Vaihtoehtoisesti voit skannata lohkoketjun (ja avaimia uudelleenkäyttäviä Caliber-klooneja) itse käyttäen caliber-blockchain-blackball työkalua luodaksesi listan tiedetyistä kulutetuista lähdöistä.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="143"/>
@@ -1414,13 +1414,13 @@ Vanha lompakkovälimuistitiedosto nimetään uudelleen ja voidaan palauttaa myö
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="263"/>
-        <source>In order to avoid nullifying the protection afforded by Monero&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing Monero clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by Monero and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing Monero clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your Monero safely.&lt;br&gt;If you do not use a key-reusing Monero clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
-        <translation>Jotta Moneron rengasallekirjoitusten tarjoama suoja ei vaarannu, lähtöä ei tulisi kuluttaa eri renkaissa eri lohkoketjuissa. Tämä ei ole tavallisesti huolenaihe, mutta avaimia uudelleenkäyttävissä Monero-klooneissa näin voi olla. Tässä tapauksessa on varmistettu olemassaolevian lähtöjen käyttävän samaa rengasta molemmissa ketjuissa.&lt;br&gt;Tämä tapahtuu automaattisesti Moneron toimesta ja minkä tahansa avaimia uudelleenkäyttävän ohjelmiston joka ei yritä murtaa yksityisyyttäsi.&lt;br&gt;Jos käytät myös avaimia uudelleenkäyttävää Monero-kloonia, ja tämä klooni ei tarjoa tätä suojausta, voit silti varmistua että siirtosi ovat suojattuja kuluttamalla kloonin ensin, ja sitten käsin lisäämällä renkaan tälle sivulle, joka mahdollistaa sinun kuluttaa Monerosi turvallisesti.&lt;br&gt;Jos et käytä avaimia uudelleenkäyttävää Monero-kloonia ilman näitä suojamekanismeja, silloin sinun ei tarvitse tehdä mitään koska kaikki on automatisoitu.&lt;br&gt;</translation>
+        <source>In order to avoid nullifying the protection afforded by Caliber&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing Caliber clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by Caliber and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing Caliber clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your Caliber safely.&lt;br&gt;If you do not use a key-reusing Caliber clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
+        <translation>Jotta Calibern rengasallekirjoitusten tarjoama suoja ei vaarannu, lähtöä ei tulisi kuluttaa eri renkaissa eri lohkoketjuissa. Tämä ei ole tavallisesti huolenaihe, mutta avaimia uudelleenkäyttävissä Caliber-klooneissa näin voi olla. Tässä tapauksessa on varmistettu olemassaolevian lähtöjen käyttävän samaa rengasta molemmissa ketjuissa.&lt;br&gt;Tämä tapahtuu automaattisesti Calibern toimesta ja minkä tahansa avaimia uudelleenkäyttävän ohjelmiston joka ei yritä murtaa yksityisyyttäsi.&lt;br&gt;Jos käytät myös avaimia uudelleenkäyttävää Caliber-kloonia, ja tämä klooni ei tarjoa tätä suojausta, voit silti varmistua että siirtosi ovat suojattuja kuluttamalla kloonin ensin, ja sitten käsin lisäämällä renkaan tälle sivulle, joka mahdollistaa sinun kuluttaa Calibersi turvallisesti.&lt;br&gt;Jos et käytä avaimia uudelleenkäyttävää Caliber-kloonia ilman näitä suojamekanismeja, silloin sinun ei tarvitse tehdä mitään koska kaikki on automatisoitu.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="285"/>
-        <source>This records rings used by outputs spent on Monero on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
-        <translation>Tämä tallentaa renkaat joiden lähdöt on kulutettu Moneroon avaimia uudelleenkäyttävään lohkoon, joten sama rengas voidaan uudelleenkäyttää ja näin välttää yksityisyyden ongelmat.</translation>
+        <source>This records rings used by outputs spent on Caliber on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
+        <translation>Tämä tallentaa renkaat joiden lähdöt on kulutettu Caliberon avaimia uudelleenkäyttävään lohkoon, joten sama rengas voidaan uudelleenkäyttää ja näin välttää yksityisyyden ongelmat.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="296"/>
@@ -1930,8 +1930,8 @@ Ringsize: </source>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="619"/>
-        <source>Monero sent successfully</source>
-        <translation>Monero lähetetty</translation>
+        <source>Caliber sent successfully</source>
+        <translation>Caliber lähetetty</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="687"/>
@@ -2077,13 +2077,13 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     <name>WizardConfigure</name>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="79"/>
-        <source>We’re almost there - let’s just configure some Monero preferences</source>
-        <translation>Melkein valmista - konfiguroidaan joitain Moneron asetuksia</translation>
+        <source>We’re almost there - let’s just configure some Caliber preferences</source>
+        <translation>Melkein valmista - konfiguroidaan joitain Calibern asetuksia</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="97"/>
-        <source>Kickstart the Monero blockchain?</source>
-        <translation>Käynnistä Monero-lohkoketju?</translation>
+        <source>Kickstart the Caliber blockchain?</source>
+        <translation>Käynnistä Caliber-lohkoketju?</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="113"/>
@@ -2097,8 +2097,8 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="140"/>
-        <source>Disk conservation mode uses substantially less disk-space, but the same amount of bandwidth as a regular Monero instance. However, storing the full blockchain is beneficial to the security of the Monero network. If you are on a device with limited disk space, then this option is appropriate for you.</source>
-        <translation>Kovalevyn suojelumoodi käyttää huomattavasti vähemmän levytilaa, mutta saman verran kaistanleveyttä kuin normaali Monero-instanssi. Kuitenkin koko lohkoketjun säilyttäminen on hyödyllistä Monero-verkon turvallisuudelle. Jos laitteellasi on rajattu levytila, niin tämä valinta on soveltuva.</translation>
+        <source>Disk conservation mode uses substantially less disk-space, but the same amount of bandwidth as a regular Caliber instance. However, storing the full blockchain is beneficial to the security of the Caliber network. If you are on a device with limited disk space, then this option is appropriate for you.</source>
+        <translation>Kovalevyn suojelumoodi käyttää huomattavasti vähemmän levytilaa, mutta saman verran kaistanleveyttä kuin normaali Caliber-instanssi. Kuitenkin koko lohkoketjun säilyttäminen on hyödyllistä Caliber-verkon turvallisuudelle. Jos laitteellasi on rajattu levytila, niin tämä valinta on soveltuva.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="153"/>
@@ -2107,8 +2107,8 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="169"/>
-        <source>Mining secures the Monero network, and also pays a small reward for the work done. This option will let Monero mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
-        <translation>Louhinta suojaa Monero-verkkoa, ja myös maksaa pienen palkkion tehdystä työstä. Tämä valinta sallii Moneron louhinnan kun tietokoneesi on verkkovirrassa ja käyttämättömänä. Louhinta pysähtyy kun jatkat käyttämistä.</translation>
+        <source>Mining secures the Caliber network, and also pays a small reward for the work done. This option will let Caliber mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
+        <translation>Louhinta suojaa Caliber-verkkoa, ja myös maksaa pienen palkkion tehdystä työstä. Tämä valinta sallii Calibern louhinnan kun tietokoneesi on verkkovirrassa ja käyttämättömänä. Louhinta pysähtyy kun jatkat käyttämistä.</translation>
     </message>
 </context>
 <context>
@@ -2139,8 +2139,8 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     <name>WizardDaemonSettings</name>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="114"/>
-        <source>To be able to communicate with the Monero network your wallet needs to be connected to a Monero node. For best privacy it&apos;s recommended to run your own node.                         &lt;br&gt;&lt;br&gt;                         If you don&apos;t have the option to run your own node, there&apos;s an option to connect to a remote node.</source>
-        <translation>Jotta Monero-verkon kanssa voidaan kommunikoida, lompakkosi on oltava yhteydessä Monero-verkkosolmuun. Parhaan yksityisyyden saavuttamiseksi on suositeltavaa käyttää omaa verkkosolmua.                         &lt;br&gt;&lt;br&gt;                         Jos sinulla ei ole mahdollista käyttää omaa verkkosolmua, on mahdollisuus käyttää etäverkkosolmua.</translation>
+        <source>To be able to communicate with the Caliber network your wallet needs to be connected to a Caliber node. For best privacy it&apos;s recommended to run your own node.                         &lt;br&gt;&lt;br&gt;                         If you don&apos;t have the option to run your own node, there&apos;s an option to connect to a remote node.</source>
+        <translation>Jotta Caliber-verkon kanssa voidaan kommunikoida, lompakkosi on oltava yhteydessä Caliber-verkkosolmuun. Parhaan yksityisyyden saavuttamiseksi on suositeltavaa käyttää omaa verkkosolmua.                         &lt;br&gt;&lt;br&gt;                         Jos sinulla ei ole mahdollista käyttää omaa verkkosolmua, on mahdollisuus käyttää etäverkkosolmua.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="126"/>
@@ -2172,8 +2172,8 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     <name>WizardDonation</name>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="93"/>
-        <source>Monero development is solely supported by donations</source>
-        <translation>Moneron kehitys on täysin lahjoitusten varassa</translation>
+        <source>Caliber development is solely supported by donations</source>
+        <translation>Calibern kehitys on täysin lahjoitusten varassa</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="113"/>
@@ -2187,8 +2187,8 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="162"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Monero development. For instance, a 50% autodonation take a transaction fee of 0.005 XMR and add a 0.0025 XMR to support Monero development.</source>
-        <translation>Jokaisen siirron yhteydessä veloitetaan pieni siirtokulu. Voit lisäksi tukea Moneron kehitystä valitsemalla tässä lisäsumman (prosenttiosuutena siirtokulusta). Esimerkiksi 50% automaattilahjoitus lahjoittaa 0.0025 XMR siirtokulun ollessa 0.005 XMR.</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Caliber development. For instance, a 50% autodonation take a transaction fee of 0.005 XMR and add a 0.0025 XMR to support Caliber development.</source>
+        <translation>Jokaisen siirron yhteydessä veloitetaan pieni siirtokulu. Voit lisäksi tukea Calibern kehitystä valitsemalla tässä lisäsumman (prosenttiosuutena siirtokulusta). Esimerkiksi 50% automaattilahjoitus lahjoittaa 0.0025 XMR siirtokulun ollessa 0.005 XMR.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="174"/>
@@ -2197,8 +2197,8 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="190"/>
-        <source>Mining secures the Monero network, and also pays a small reward for the work done. This option will let Monero mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
-        <translation>Louhinta suojaa Monero-verkkoa, ja myös maksaa pienen palkkion tehdystä työstä. Tämä valinta sallii Moneron louhinnan kun tietokoneesi on verkkovirrassa ja käyttämättömänä. Louhinta pysähtyy kun jatkat käyttämistä.</translation>
+        <source>Mining secures the Caliber network, and also pays a small reward for the work done. This option will let Caliber mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
+        <translation>Louhinta suojaa Caliber-verkkoa, ja myös maksaa pienen palkkion tehdystä työstä. Tämä valinta sallii Calibern louhinnan kun tietokoneesi on verkkovirrassa ja käyttämättömänä. Louhinta pysähtyy kun jatkat käyttämistä.</translation>
     </message>
 </context>
 <context>
@@ -2290,8 +2290,8 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="386"/>
-        <source>USE MONERO</source>
-        <translation>KÄYTÄ MONEROA</translation>
+        <source>USE CALIBER</source>
+        <translation>KÄYTÄ CALIBERA</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="399"/>
@@ -2411,8 +2411,8 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="76"/>
-        <source>Welcome to Monero!</source>
-        <translation>Tervetuloa Moneroon!</translation>
+        <source>Welcome to Caliber!</source>
+        <translation>Tervetuloa Caliberon!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="87"/>
@@ -2502,8 +2502,8 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     <name>WizardWelcome</name>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="73"/>
-        <source>Welcome to Monero!</source>
-        <translation>Tervetuloa Moneroon!</translation>
+        <source>Welcome to Caliber!</source>
+        <translation>Tervetuloa Caliberon!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="83"/>
@@ -2679,8 +2679,8 @@ Spending address index: </source>
     </message>
     <message>
         <location filename="../main.qml" line="800"/>
-        <source>Monero sent successfully: %1 transaction(s) </source>
-        <translation>Monero lähetetty onnistuneesti: %1 siirto(a) </translation>
+        <source>Caliber sent successfully: %1 transaction(s) </source>
+        <translation>Caliber lähetetty onnistuneesti: %1 siirto(a) </translation>
     </message>
     <message>
         <location filename="../main.qml" line="830"/>
@@ -2707,8 +2707,8 @@ Spending address index: </source>
     </message>
     <message>
         <location filename="../main.qml" line="874"/>
-        <source>This address received %1 monero, with %2 confirmation(s).</source>
-        <translation>Tämä osoite vastaanotti %1 monero, vahvistusten määrä: %2</translation>
+        <source>This address received %1 caliber, with %2 confirmation(s).</source>
+        <translation>Tämä osoite vastaanotti %1 caliber, vahvistusten määrä: %2</translation>
     </message>
     <message>
         <location filename="../main.qml" line="885"/>
@@ -2782,8 +2782,8 @@ Spending address index: </source>
     </message>
     <message>
         <location filename="../main.qml" line="1790"/>
-        <source>New version of monero-wallet-gui is available: %1&lt;br&gt;%2</source>
-        <translation>Uusi versio monero-wallet-gui:sta saatavilla: %1&lt;br&gt;%2</translation>
+        <source>New version of caliber-wallet-gui is available: %1&lt;br&gt;%2</source>
+        <translation>Uusi versio caliber-wallet-gui:sta saatavilla: %1&lt;br&gt;%2</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1822"/>
@@ -2824,8 +2824,8 @@ Spending address index: </source>
     </message>
     <message>
         <location filename="../main.qml" line="871"/>
-        <source>This address received %1 monero, but the transaction is not yet mined</source>
-        <translation>Tämä osoite vastaanotti %1 monero, mutta siirtoa ei ole vielä louhittu</translation>
+        <source>This address received %1 caliber, but the transaction is not yet mined</source>
+        <translation>Tämä osoite vastaanotti %1 caliber, mutta siirtoa ei ole vielä louhittu</translation>
     </message>
     <message>
         <location filename="../main.qml" line="878"/>
@@ -2854,7 +2854,7 @@ Spending address index: </source>
     </message>
     <message>
         <location filename="../main.qml" line="1298"/>
-        <source>Monero</source>
+        <source>Caliber</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

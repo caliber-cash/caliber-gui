@@ -136,8 +136,8 @@ Rectangle {
         var expectedAmount = walletManager.amountFromString(amountToReceiveLine.text)
         if (expectedAmount && expectedAmount != amount) {
             var displayTotalAmount = walletManager.displayAmount(totalAmount)
-            if (amount > expectedAmount) toReceiveSatisfiedLine.text += qsTr("With more Monero");
-            else if (amount < expectedAmount) toReceiveSatisfiedLine.text = qsTr("With not enough Monero")
+            if (amount > expectedAmount) toReceiveSatisfiedLine.text += qsTr("With more Caliber");
+            else if (amount < expectedAmount) toReceiveSatisfiedLine.text = qsTr("With not enough Caliber")
             toReceiveSatisfiedLine.text += ": " + "<br>" +
                     qsTr("Expected") + ": " + amountToReceiveLine.text + "<br>" +
                     qsTr("Total received") + ": " + displayTotalAmount + translationManager.emptyString;
@@ -405,7 +405,7 @@ Rectangle {
                 text: qsTr("Advanced options") + translationManager.emptyString
             }
         }
-        
+
         GridLayout {
             id: advancedRow
             columns: (isMobile)? 1 : 2

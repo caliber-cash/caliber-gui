@@ -34,7 +34,7 @@ DaemonManager *DaemonManager::instance(const QStringList *args)
 
 bool DaemonManager::start(const QString &flags, NetworkType::Type nettype, const QString &dataDir, const QString &bootstrapNodeAddress)
 {
-    // prepare command line arguments and pass to monerod
+    // prepare command line arguments and pass to caliberd
     QStringList arguments;
 
     // Start daemon with --detach flag on non-windows platforms
@@ -74,7 +74,7 @@ bool DaemonManager::start(const QString &flags, NetworkType::Type nettype, const
 
 
 
-    qDebug() << "starting monerod " + m_monerod;
+    qDebug() << "starting caliberd " + m_caliberd;
     qDebug() << "With command line arguments " << arguments;
 
     m_daemon = new QProcess();
@@ -84,8 +84,8 @@ bool DaemonManager::start(const QString &flags, NetworkType::Type nettype, const
     connect (m_daemon, SIGNAL(readyReadStandardOutput()), this, SLOT(printOutput()));
     connect (m_daemon, SIGNAL(readyReadStandardError()), this, SLOT(printError()));
 
-    // Start monerod
-    bool started = m_daemon->startDetached(m_monerod, arguments);
+    // Start caliberd
+    bool started = m_daemon->startDetached(m_caliberd, arguments);
 
     // add state changed listener
     connect(m_daemon,SIGNAL(stateChanged(QProcess::ProcessState)),this,SLOT(stateChanged(QProcess::ProcessState)));
@@ -166,9 +166,9 @@ bool DaemonManager::stopWatcher(NetworkType::Type nettype) const
             if(counter >= 5) {
                 qDebug() << "Killing it! ";
 #ifdef Q_OS_WIN
-                QProcess::execute("taskkill /F /IM monerod.exe");
+                QProcess::execute("taskkill /F /IM caliberd.exe");
 #else
-                QProcess::execute("pkill monerod");
+                QProcess::execute("pkill caliberd");
 #endif
             }
 
@@ -214,7 +214,7 @@ bool DaemonManager::running(NetworkType::Type nettype) const
     QString status;
     sendCommand("status", nettype, status);
     qDebug() << status;
-    // `./monerod status` returns BUSY when syncing.
+    // `./caliberd status` returns BUSY when syncing.
     // Treat busy as connected, until fixed upstream.
     if (status.contains("Height:") || status.contains("BUSY") ) {
         return true;
@@ -242,7 +242,7 @@ bool DaemonManager::sendCommand(const QString &cmd, NetworkType::Type nettype, Q
     qDebug() << "sending external cmd: " << external_cmd;
 
 
-    p.start(m_monerod, external_cmd);
+    p.start(m_caliberd, external_cmd);
 
     bool started = p.waitForFinished(-1);
     message = p.readAllStandardOutput();
@@ -298,14 +298,14 @@ DaemonManager::DaemonManager(QObject *parent)
     : QObject(parent)
 {
 
-    // Platform depetent path to monerod
+    // Platform depetent path to caliberd
 #ifdef Q_OS_WIN
-    m_monerod = QApplication::applicationDirPath() + "/monerod.exe";
+    m_caliberd = QApplication::applicationDirPath() + "/caliberd.exe";
 #elif defined(Q_OS_UNIX)
-    m_monerod = QApplication::applicationDirPath() + "/monerod";
+    m_caliberd = QApplication::applicationDirPath() + "/caliberd";
 #endif
 
-    if (m_monerod.length() == 0) {
+    if (m_caliberd.length() == 0) {
         qCritical() << "no daemon binary defined for current platform";
         m_has_daemon = false;
     }

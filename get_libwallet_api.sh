@@ -1,5 +1,5 @@
 #!/bin/bash
-MONERO_URL=https://github.com/monero-project/monero.git
+MONERO_URL=https://github.com/caliber-cash/caliber.git
 MONERO_BRANCH=master
 
 pushd $(pwd)
@@ -49,14 +49,14 @@ $(git -C $MONERO_DIR config user.name "$OLD_GIT_USER")
 $(git -C $MONERO_DIR config user.email "$OLD_GIT_EMAIL")
 
 # Build libwallet if it doesnt exist
-if [ ! -f $MONERO_DIR/lib/libwallet_merged.a ]; then 
+if [ ! -f $MONERO_DIR/lib/libwallet_merged.a ]; then
     echo "libwallet_merged.a not found - Building libwallet"
     BUILD_LIBWALLET=true
 # Build libwallet if no previous version file exists
-elif [ ! -f $MONERO_DIR/version.sh ]; then 
+elif [ ! -f $MONERO_DIR/version.sh ]; then
     echo "monero/version.h not found - Building libwallet"
     BUILD_LIBWALLET=true
-## Compare previously built version with submodule + merged PR's version. 
+## Compare previously built version with submodule + merged PR's version.
 else
     source $MONERO_DIR/version.sh
     # compare submodule version with latest build
@@ -171,7 +171,7 @@ elif [ "$platform" == "linuxarmv7" ]; then
         cmake -D BUILD_TESTS=OFF -D ARCH="armv7-a" -D -D BUILD_64=OFF  -D BUILD_GUI_DEPS=ON -D CMAKE_INSTALL_PREFIX="$MONERO_DIR"  ../..
     fi
 
-## LINUX other 
+## LINUX other
 elif [ "$platform" == "linux" ]; then
     echo "Configuring build for Linux general"
     if [ "$STATIC" == true ]; then
@@ -217,7 +217,7 @@ eval $make_exec  -j$CPU_CORE_COUNT
 eval $make_exec  install -j$CPU_CORE_COUNT
 popd
 
-# Build monerod
+# Build caliberd
 # win32 need to build daemon manually with msys2 toolchain
 if [ "$platform" != "mingw32" ] && [ "$ANDROID" != true ]; then
     pushd $MONERO_DIR/build/$BUILD_TYPE/src/daemon

@@ -358,8 +358,8 @@
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="93"/>
-        <source>WARNING: Do not reuse your Monero keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
-        <translation>AVISO: Não reutilize suas chaves Monero em outro fork, A NÃO SER QUE este fork tenha mitigações de reutilização embutidas. Fazer isso prejudicará sua privacidade.</translation>
+        <source>WARNING: Do not reuse your Caliber keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
+        <translation>AVISO: Não reutilize suas chaves Caliber em outro fork, A NÃO SER QUE este fork tenha mitigações de reutilização embutidas. Fazer isso prejudicará sua privacidade.</translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="196"/>
@@ -610,8 +610,8 @@
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="82"/>
-        <source>Mining with your computer helps strengthen the Monero network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Monero. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
-        <translation>Minerar com seu computador ajuda a fortalecer a rede do Monero. Quanto mais pessoas minerarem, mais difícil é para a rede ser atacada, qualquer quantidade ajuda. &lt;br&gt; &lt;br&gt;Minerar também lhe garante uma pequena chance de ganhar Monero. Seu computador irá criar hashes buscando por soluções aos blocos. Caso encontre um bloco, você receberá a recompensa associada. Boa sorte!</translation>
+        <source>Mining with your computer helps strengthen the Caliber network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Caliber. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
+        <translation>Minerar com seu computador ajuda a fortalecer a rede do Caliber. Quanto mais pessoas minerarem, mais difícil é para a rede ser atacada, qualquer quantidade ajuda. &lt;br&gt; &lt;br&gt;Minerar também lhe garante uma pequena chance de ganhar Caliber. Seu computador irá criar hashes buscando por soluções aos blocos. Caso encontre um bloco, você receberá a recompensa associada. Boa sorte!</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="95"/>
@@ -867,13 +867,13 @@
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="138"/>
-        <source>With more Monero</source>
-        <translation>Com mais Monero</translation>
+        <source>With more Caliber</source>
+        <translation>Com mais Caliber</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="139"/>
-        <source>With not enough Monero</source>
-        <translation>Sem Monero suficiente</translation>
+        <source>With not enough Caliber</source>
+        <translation>Sem Caliber suficiente</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="141"/>
@@ -1041,8 +1041,8 @@
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="89"/>
-        <source>Embedded Monero version: </source>
-        <translation>Versão do Monero embutida: </translation>
+        <source>Embedded Caliber version: </source>
+        <translation>Versão do Caliber embutida: </translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="118"/>
@@ -1164,13 +1164,13 @@ O arquivo de cache da carteira antiga será renomeado e poderá ser restaurado p
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="232"/>
-        <source>Uses a third-party server to connect to the Monero network. Less secure, but easier on your computer.</source>
-        <translation>Usa um servidor de terceiro para se conectar com a rede Monero. Menos seguro, mas mais leve para seu computador.</translation>
+        <source>Uses a third-party server to connect to the Caliber network. Less secure, but easier on your computer.</source>
+        <translation>Usa um servidor de terceiro para se conectar com a rede Caliber. Menos seguro, mas mais leve para seu computador.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="277"/>
-        <source>To find a remote node, type &apos;Monero remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
-        <translation>Para encontrar um nó remoto, digite &apos;nó remoto do Monero&apos; em seu mecanismo de busca favorito. Certifique-se de que o nó seja executado por um terceiro confiável.</translation>
+        <source>To find a remote node, type &apos;Caliber remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
+        <translation>Para encontrar um nó remoto, digite &apos;nó remoto do Caliber&apos; em seu mecanismo de busca favorito. Certifique-se de que o nó seja executado por um terceiro confiável.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="291"/>
@@ -1326,8 +1326,8 @@ O arquivo de cache da carteira antiga será renomeado e poderá ser restaurado p
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="106"/>
-        <source>This page allows you to interact with the shared ring database. This database is meant for use by Monero wallets as well as wallets from Monero clones which reuse the Monero keys.</source>
-        <translation>Essa página te permite interagir com a base de dados compartilhada dos anéis. Essa base de dados serve para ser usada por carteiras Monero e outras carteiras de clones do Monero que reutilizam as mesmas chaves.</translation>
+        <source>This page allows you to interact with the shared ring database. This database is meant for use by Caliber wallets as well as wallets from Caliber clones which reuse the Caliber keys.</source>
+        <translation>Essa página te permite interagir com a base de dados compartilhada dos anéis. Essa base de dados serve para ser usada por carteiras Caliber e outras carteiras de clones do Caliber que reutilizam as mesmas chaves.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="119"/>
@@ -1343,8 +1343,8 @@ O arquivo de cache da carteira antiga será renomeado e poderá ser restaurado p
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="122"/>
-        <source>In order to obscure which inputs in a Monero transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection Monero uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the Monero project and is available on the getmonero.org website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing Monero clones) yourself using the monero-blockchain-blackball tool to create a list of known spent outputs.&lt;br&gt;</source>
-        <translation>Para ocultar quais entradas estão sendo gastas numa transação em Monero, um terceiro não deve ser capaz de saber quais entradas num anel já foram gastas. Se ele for capaz, a proteção fornecida pelas assinaturas em anel é enfraquecida. Se todas as entradas forem identificadas como gastas, salvo uma, então a verdadeira entrada fica aparente, anulando o efeito das assinaturas em anel, que é uma das três principais camadas de proteção a privacidade que o Monero usa.&lt;br&gt;Para ajudar que as transações evitem essas entradas, uma lista de entradas já gastas pode ser usada para evitar de adicioná-las em novas transações. Tal lista é mantida pelo projeto Monero e está disponível no website getmonero.org. Você pode importar essa lista aqui.&lt;br&gt;Como alternativa, você pode escanear o blockchain (e dos clones do Monero que reutilizam as chaves) usando a ferramenta monero-blockchain-blackball para criar uma lista de entradas já gastas.&lt;br&gt;</translation>
+        <source>In order to obscure which inputs in a Caliber transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection Caliber uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the Caliber project and is available on the getcaliber.org website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing Caliber clones) yourself using the caliber-blockchain-blackball tool to create a list of known spent outputs.&lt;br&gt;</source>
+        <translation>Para ocultar quais entradas estão sendo gastas numa transação em Caliber, um terceiro não deve ser capaz de saber quais entradas num anel já foram gastas. Se ele for capaz, a proteção fornecida pelas assinaturas em anel é enfraquecida. Se todas as entradas forem identificadas como gastas, salvo uma, então a verdadeira entrada fica aparente, anulando o efeito das assinaturas em anel, que é uma das três principais camadas de proteção a privacidade que o Caliber usa.&lt;br&gt;Para ajudar que as transações evitem essas entradas, uma lista de entradas já gastas pode ser usada para evitar de adicioná-las em novas transações. Tal lista é mantida pelo projeto Caliber e está disponível no website getcaliber.org. Você pode importar essa lista aqui.&lt;br&gt;Como alternativa, você pode escanear o blockchain (e dos clones do Caliber que reutilizam as chaves) usando a ferramenta caliber-blockchain-blackball para criar uma lista de entradas já gastas.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="143"/>
@@ -1414,13 +1414,13 @@ O arquivo de cache da carteira antiga será renomeado e poderá ser restaurado p
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="263"/>
-        <source>In order to avoid nullifying the protection afforded by Monero&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing Monero clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by Monero and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing Monero clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your Monero safely.&lt;br&gt;If you do not use a key-reusing Monero clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
-        <translation>Para evitar anular a proteção oferecida pelas assinaturas de anel do Monero, uma saída não deve ser gasta com anéis diferentes em blockchains diferentes. Embora isso normalmente não seja uma preocupação, ela pode se tornar uma quando um clone do Monero que reutiliza chaves permita que você gaste as saídas existentes. Nesse caso, você precisa garantir que essas saídas existentes usem o mesmo anel em ambos blockchains.&lt;br&gt;Isso será feito automaticamente pelo Monero e qualquer software de reutilização de chaves que não esteja tentando privá-lo ativamente de sua privacidade.&lt;br&gt;Se você estiver usando um clone do Monero que também reutiliza chaves, e esse clone não incluir essa proteção, você ainda poderá garantir que suas transações sejam protegidas ao gastar primeiramente no clone e, em seguida, adicionar manualmente o anel nesta página, o que lhe permitirá gastar seu Monero com segurança.&lt;br&gt;Se você não usar um clone do Monero que reutiliza chaves sem esses recursos de segurança, não será necessário fazer nada, pois tudo é automatizado.&lt;br&gt;</translation>
+        <source>In order to avoid nullifying the protection afforded by Caliber&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing Caliber clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by Caliber and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing Caliber clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your Caliber safely.&lt;br&gt;If you do not use a key-reusing Caliber clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
+        <translation>Para evitar anular a proteção oferecida pelas assinaturas de anel do Caliber, uma saída não deve ser gasta com anéis diferentes em blockchains diferentes. Embora isso normalmente não seja uma preocupação, ela pode se tornar uma quando um clone do Caliber que reutiliza chaves permita que você gaste as saídas existentes. Nesse caso, você precisa garantir que essas saídas existentes usem o mesmo anel em ambos blockchains.&lt;br&gt;Isso será feito automaticamente pelo Caliber e qualquer software de reutilização de chaves que não esteja tentando privá-lo ativamente de sua privacidade.&lt;br&gt;Se você estiver usando um clone do Caliber que também reutiliza chaves, e esse clone não incluir essa proteção, você ainda poderá garantir que suas transações sejam protegidas ao gastar primeiramente no clone e, em seguida, adicionar manualmente o anel nesta página, o que lhe permitirá gastar seu Caliber com segurança.&lt;br&gt;Se você não usar um clone do Caliber que reutiliza chaves sem esses recursos de segurança, não será necessário fazer nada, pois tudo é automatizado.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="285"/>
-        <source>This records rings used by outputs spent on Monero on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
-        <translation>Isso registra os anéis usados pelo Monero em um blockchain que reutiliza as mesmas chaves. Dessa maneira o mesmo anel pode ser reutilizado evitando problemas de privacidade.</translation>
+        <source>This records rings used by outputs spent on Caliber on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
+        <translation>Isso registra os anéis usados pelo Caliber em um blockchain que reutiliza as mesmas chaves. Dessa maneira o mesmo anel pode ser reutilizado evitando problemas de privacidade.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="296"/>
@@ -1460,12 +1460,12 @@ O arquivo de cache da carteira antiga será renomeado e poderá ser restaurado p
     <message>
         <location filename="../pages/SharedRingDB.qml" line="382"/>
         <source>I intend to spend on key-reusing fork(s)</source>
-        <translation>Eu pretendo usar um fork que reutiliza as chaves do Monero</translation>
+        <translation>Eu pretendo usar um fork que reutiliza as chaves do Caliber</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="396"/>
         <source>I might want to spend on key-reusing fork(s)</source>
-        <translation>Talvez eu queria usar um fork que reutiliza as chaves do Monero</translation>
+        <translation>Talvez eu queria usar um fork que reutiliza as chaves do Caliber</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="410"/>
@@ -1825,8 +1825,8 @@ O arquivo de cache da carteira antiga será renomeado e poderá ser restaurado p
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="619"/>
-        <source>Monero sent successfully</source>
-        <translation>Monero enviado com sucesso</translation>
+        <source>Caliber sent successfully</source>
+        <translation>Caliber enviado com sucesso</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="465"/>
@@ -2084,13 +2084,13 @@ Para o caso com Spend Proof, você não precisa especificar o endereço do desti
     <name>WizardConfigure</name>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="79"/>
-        <source>We’re almost there - let’s just configure some Monero preferences</source>
+        <source>We’re almost there - let’s just configure some Caliber preferences</source>
         <translation>Estamos quase terminando - vamos configurar algumas preferências</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="97"/>
-        <source>Kickstart the Monero blockchain?</source>
-        <translation>Iniciar o blockchain do Monero?</translation>
+        <source>Kickstart the Caliber blockchain?</source>
+        <translation>Iniciar o blockchain do Caliber?</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="113"/>
@@ -2104,8 +2104,8 @@ Para o caso com Spend Proof, você não precisa especificar o endereço do desti
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="140"/>
-        <source>Disk conservation mode uses substantially less disk-space, but the same amount of bandwidth as a regular Monero instance. However, storing the full blockchain is beneficial to the security of the Monero network. If you are on a device with limited disk space, then this option is appropriate for you.</source>
-        <translation>Modo de conservação de espaço no disco utiliza menos espaço, porém a mesma quantidade de banda que o modo normal. Armazenar o blockchain completo ajuda a proteger a rede do Monero. Caso esteja em um dispositivo com espaço em disco limitado, esta opção é para você.</translation>
+        <source>Disk conservation mode uses substantially less disk-space, but the same amount of bandwidth as a regular Caliber instance. However, storing the full blockchain is beneficial to the security of the Caliber network. If you are on a device with limited disk space, then this option is appropriate for you.</source>
+        <translation>Modo de conservação de espaço no disco utiliza menos espaço, porém a mesma quantidade de banda que o modo normal. Armazenar o blockchain completo ajuda a proteger a rede do Caliber. Caso esteja em um dispositivo com espaço em disco limitado, esta opção é para você.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="153"/>
@@ -2114,8 +2114,8 @@ Para o caso com Spend Proof, você não precisa especificar o endereço do desti
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="169"/>
-        <source>Mining secures the Monero network, and also pays a small reward for the work done. This option will let Monero mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
-        <translation>A mineração protege a rede do Monero e recompensa o minerador com uma pequena quantidade de Monero pelo trabalho feito. Esta opção fará com que seu computador seja utilizado para minerar Monero quando estiver ocioso. A mineração será interrompida quando você voltar a utilizar o computador.</translation>
+        <source>Mining secures the Caliber network, and also pays a small reward for the work done. This option will let Caliber mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
+        <translation>A mineração protege a rede do Caliber e recompensa o minerador com uma pequena quantidade de Caliber pelo trabalho feito. Esta opção fará com que seu computador seja utilizado para minerar Caliber quando estiver ocioso. A mineração será interrompida quando você voltar a utilizar o computador.</translation>
     </message>
 </context>
 <context>
@@ -2146,8 +2146,8 @@ Para o caso com Spend Proof, você não precisa especificar o endereço do desti
     <name>WizardDaemonSettings</name>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="114"/>
-        <source>To be able to communicate with the Monero network your wallet needs to be connected to a Monero node. For best privacy it&apos;s recommended to run your own node.                         &lt;br&gt;&lt;br&gt;                         If you don&apos;t have the option to run your own node, there&apos;s an option to connect to a remote node.</source>
-        <translation>Para se comunicar com a rede Monero, sua carteira precisa estar conectada com um nó Monero. Para maior privacidade, é recomendado que você rode seu próprio nó.                         &lt;br&gt;&lt;br&gt;                         Se você não tem a opção de rodar seu próprio nó, existe a opção de conectar-se a um nó remoto.</translation>
+        <source>To be able to communicate with the Caliber network your wallet needs to be connected to a Caliber node. For best privacy it&apos;s recommended to run your own node.                         &lt;br&gt;&lt;br&gt;                         If you don&apos;t have the option to run your own node, there&apos;s an option to connect to a remote node.</source>
+        <translation>Para se comunicar com a rede Caliber, sua carteira precisa estar conectada com um nó Caliber. Para maior privacidade, é recomendado que você rode seu próprio nó.                         &lt;br&gt;&lt;br&gt;                         Se você não tem a opção de rodar seu próprio nó, existe a opção de conectar-se a um nó remoto.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="126"/>
@@ -2179,8 +2179,8 @@ Para o caso com Spend Proof, você não precisa especificar o endereço do desti
     <name>WizardDonation</name>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="93"/>
-        <source>Monero development is solely supported by donations</source>
-        <translation>O desenvolvimento do Monero é suportado através de doações</translation>
+        <source>Caliber development is solely supported by donations</source>
+        <translation>O desenvolvimento do Caliber é suportado através de doações</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="113"/>
@@ -2194,8 +2194,8 @@ Para o caso com Spend Proof, você não precisa especificar o endereço do desti
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="162"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Monero development. For instance, a 50% autodonation take a transaction fee of 0.005 XMR and add a 0.0025 XMR to support Monero development.</source>
-        <translation>Para cada transação uma pequena taxa é coletada. Esta opção permite você adicionar uma quantidade adicional (porcentagem desta taxa) para ajudar o desenvolvimento do Monero. Por exemplo, 50% de auto-doação em uma taxa de transferência de 0.005 XMR adicionará 0.0025 XMR na taxa para ajudar o desenvolvimento do projeto.</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Caliber development. For instance, a 50% autodonation take a transaction fee of 0.005 XMR and add a 0.0025 XMR to support Caliber development.</source>
+        <translation>Para cada transação uma pequena taxa é coletada. Esta opção permite você adicionar uma quantidade adicional (porcentagem desta taxa) para ajudar o desenvolvimento do Caliber. Por exemplo, 50% de auto-doação em uma taxa de transferência de 0.005 XMR adicionará 0.0025 XMR na taxa para ajudar o desenvolvimento do projeto.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="174"/>
@@ -2204,8 +2204,8 @@ Para o caso com Spend Proof, você não precisa especificar o endereço do desti
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="190"/>
-        <source>Mining secures the Monero network, and also pays a small reward for the work done. This option will let Monero mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
-        <translation>A mineração protege a rede do Monero e recompensa o minerador com uma pequena quantidade de Monero pelo trabalho feito. Esta opção fará com que seu computador seja utilizado para minerar Monero quando estive ocioso. A mineração será interrompida quando você voltar a utilizar o computador.</translation>
+        <source>Mining secures the Caliber network, and also pays a small reward for the work done. This option will let Caliber mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
+        <translation>A mineração protege a rede do Caliber e recompensa o minerador com uma pequena quantidade de Caliber pelo trabalho feito. Esta opção fará com que seu computador seja utilizado para minerar Caliber quando estive ocioso. A mineração será interrompida quando você voltar a utilizar o computador.</translation>
     </message>
 </context>
 <context>
@@ -2297,8 +2297,8 @@ Para o caso com Spend Proof, você não precisa especificar o endereço do desti
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="386"/>
-        <source>USE MONERO</source>
-        <translation>USAR O MONERO</translation>
+        <source>USE CALIBER</source>
+        <translation>USAR O CALIBER</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="399"/>
@@ -2417,8 +2417,8 @@ Para o caso com Spend Proof, você não precisa especificar o endereço do desti
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="76"/>
-        <source>Welcome to Monero!</source>
-        <translation>Bem-vindo ao Monero!</translation>
+        <source>Welcome to Caliber!</source>
+        <translation>Bem-vindo ao Caliber!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="87"/>
@@ -2507,8 +2507,8 @@ Para o caso com Spend Proof, você não precisa especificar o endereço do desti
     <name>WizardWelcome</name>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="73"/>
-        <source>Welcome to Monero!</source>
-        <translation>Bem-vindo ao Monero!</translation>
+        <source>Welcome to Caliber!</source>
+        <translation>Bem-vindo ao Caliber!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="83"/>
@@ -2701,8 +2701,8 @@ Spending address index: </source>
     </message>
     <message>
         <location filename="../main.qml" line="800"/>
-        <source>Monero sent successfully: %1 transaction(s) </source>
-        <translation>Monero enviado com sucesso: %1 transação(ões) </translation>
+        <source>Caliber sent successfully: %1 transaction(s) </source>
+        <translation>Caliber enviado com sucesso: %1 transação(ões) </translation>
     </message>
     <message>
         <location filename="../main.qml" line="863"/>
@@ -2718,8 +2718,8 @@ Spending address index: </source>
     </message>
     <message>
         <location filename="../main.qml" line="874"/>
-        <source>This address received %1 monero, with %2 confirmation(s).</source>
-        <translation>Este endereço recebeu %1 monero, com %2 confirmação(ões)</translation>
+        <source>This address received %1 caliber, with %2 confirmation(s).</source>
+        <translation>Este endereço recebeu %1 caliber, com %2 confirmação(ões)</translation>
     </message>
     <message>
         <location filename="../main.qml" line="885"/>
@@ -2793,8 +2793,8 @@ Spending address index: </source>
     </message>
     <message>
         <location filename="../main.qml" line="1790"/>
-        <source>New version of monero-wallet-gui is available: %1&lt;br&gt;%2</source>
-        <translation>Nova versão da carteira (GUI) do Monero disponível: %1&lt;br&gt;%2</translation>
+        <source>New version of caliber-wallet-gui is available: %1&lt;br&gt;%2</source>
+        <translation>Nova versão da carteira (GUI) do Caliber disponível: %1&lt;br&gt;%2</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1822"/>
@@ -2841,8 +2841,8 @@ Spending address index: </source>
     </message>
     <message>
         <location filename="../main.qml" line="871"/>
-        <source>This address received %1 monero, but the transaction is not yet mined</source>
-        <translation>Este endereço recebeu %1 monero, porém a transação ainda não foi minerada</translation>
+        <source>This address received %1 caliber, but the transaction is not yet mined</source>
+        <translation>Este endereço recebeu %1 caliber, porém a transação ainda não foi minerada</translation>
     </message>
     <message>
         <location filename="../main.qml" line="878"/>
@@ -2871,8 +2871,8 @@ Spending address index: </source>
     </message>
     <message>
         <location filename="../main.qml" line="1298"/>
-        <source>Monero</source>
-        <translation>Monero</translation>
+        <source>Caliber</source>
+        <translation>Caliber</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1448"/>

@@ -358,7 +358,7 @@
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="93"/>
-        <source>WARNING: Do not reuse your Monero keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
+        <source>WARNING: Do not reuse your Caliber keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
         <translation>UPOZORENJE: Ne koristite vaše ključeve na drugom forku, OSIM ako taj fork ima ugradjene mitigacije za ponovno korišćenje kljuca. Ovakvo korišćenje će oštetiti vašu priivatnost.</translation>
     </message>
     <message>
@@ -610,8 +610,8 @@
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="82"/>
-        <source>Mining with your computer helps strengthen the Monero network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Monero. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
-        <translation>Rudareći svojim računarom ojačavate Monero mrežu. Što je veći broj rudara, utoliko je teže napasti mrežu, upravo zbog toga i najmanji doprinos u rudarenju pomaže.&lt;br&gt; &lt;br&gt;Rudarenje takođe pruža malu šansu da zaradite nešto Monera. Vaš računar će generišući haševe tražiti odgovarajuće rešenje za naredni blok. Ukoliko uspete da nađete blok, dobićete nagradu vezanu za taj blok u vidu Monera. Srećno!</translation>
+        <source>Mining with your computer helps strengthen the Caliber network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Caliber. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
+        <translation>Rudareći svojim računarom ojačavate Caliber mrežu. Što je veći broj rudara, utoliko je teže napasti mrežu, upravo zbog toga i najmanji doprinos u rudarenju pomaže.&lt;br&gt; &lt;br&gt;Rudarenje takođe pruža malu šansu da zaradite nešto Monera. Vaš računar će generišući haševe tražiti odgovarajuće rešenje za naredni blok. Ukoliko uspete da nađete blok, dobićete nagradu vezanu za taj blok u vidu Monera. Srećno!</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="95"/>
@@ -867,12 +867,12 @@
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="138"/>
-        <source>With more Monero</source>
+        <source>With more Caliber</source>
         <translation>Sa još Monera</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="139"/>
-        <source>With not enough Monero</source>
+        <source>With not enough Caliber</source>
         <translation>Sa nedovoljno Monera</translation>
     </message>
     <message>
@@ -1041,7 +1041,7 @@
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="89"/>
-        <source>Embedded Monero version: </source>
+        <source>Embedded Caliber version: </source>
         <translation>Ugrađena verzija Monera: </translation>
     </message>
     <message>
@@ -1163,13 +1163,13 @@ Stari fajl keša novčanika će biti preimenovan i može se povratiti kasnije.</
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="232"/>
-        <source>Uses a third-party server to connect to the Monero network. Less secure, but easier on your computer.</source>
-        <translation>Koristi server trećeg lica za povezivanje na Monero mrežu. Manje bezbedno, ali lakše za vaš računar.</translation>
+        <source>Uses a third-party server to connect to the Caliber network. Less secure, but easier on your computer.</source>
+        <translation>Koristi server trećeg lica za povezivanje na Caliber mrežu. Manje bezbedno, ali lakše za vaš računar.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="277"/>
-        <source>To find a remote node, type &apos;Monero remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
-        <translation>Da nađete udaljenu nodu, ukucajte &apos;Monero remote node&apos; u vaš omiljeni pretraživač. Molimo proverite da nodom upravlja lice od poverenja.</translation>
+        <source>To find a remote node, type &apos;Caliber remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
+        <translation>Da nađete udaljenu nodu, ukucajte &apos;Caliber remote node&apos; u vaš omiljeni pretraživač. Molimo proverite da nodom upravlja lice od poverenja.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="291"/>
@@ -1325,8 +1325,8 @@ Stari fajl keša novčanika će biti preimenovan i može se povratiti kasnije.</
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="106"/>
-        <source>This page allows you to interact with the shared ring database. This database is meant for use by Monero wallets as well as wallets from Monero clones which reuse the Monero keys.</source>
-        <translation>Ova stranica vam omogućava interakciju sa deljenom prsten bazom podataka. Ova baza podataka je namenjena za upotrebu od strane Monero novčanika kao i novčanika od Monero klonova koji koriste Monero ključeve.</translation>
+        <source>This page allows you to interact with the shared ring database. This database is meant for use by Caliber wallets as well as wallets from Caliber clones which reuse the Caliber keys.</source>
+        <translation>Ova stranica vam omogućava interakciju sa deljenom prsten bazom podataka. Ova baza podataka je namenjena za upotrebu od strane Caliber novčanika kao i novčanika od Caliber klonova koji koriste Caliber ključeve.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="119"/>
@@ -1342,8 +1342,8 @@ Stari fajl keša novčanika će biti preimenovan i može se povratiti kasnije.</
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="122"/>
-        <source>In order to obscure which inputs in a Monero transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection Monero uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the Monero project and is available on the getmonero.org website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing Monero clones) yourself using the monero-blockchain-blackball tool to create a list of known spent outputs.&lt;br&gt;</source>
-        <translation>Da bi bilo nejasnije koji ulazi u Monero transakciji se troše, treća strana ne treba da bude u mogućnosti da zaključi koji ulazi u prstenu su već poznati kao potrošeni. To bi oslabilo zaštitu priuštenu prsten potpisima. Ako za sve osim jednog ulaza je poznato da su potrošeni, onda ulaz koji biva potrošen postaje očigledan, time poništavajući dejstvo prsten potpisa, koji čine jedan od tri glavna sloja privatnosti koje Monero koristi.&lt;br&gt;Da bi pomogli da se izbegnu takvi ulazi, lista poznatih potrošenih ulaza se može koristiti kako se ne bi koristili u novim transakcijama. Takva lista se održava od strane Monero projekta i dostupna na getmonero.org veb sajtu, i možete je uneti tu listu ovde.&lt;br&gt;Alternatnivno, možete skenirati blokčejn (i blokčejn Menoro klonova koji koriste iste ključeve) samostalno korišćenjem monero-blockchain-blackball alatke da napravite listu izlaza za koje je poznato da su potrošeni.&lt;br&gt;</translation>
+        <source>In order to obscure which inputs in a Caliber transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection Caliber uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the Caliber project and is available on the getcaliber.org website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing Caliber clones) yourself using the caliber-blockchain-blackball tool to create a list of known spent outputs.&lt;br&gt;</source>
+        <translation>Da bi bilo nejasnije koji ulazi u Caliber transakciji se troše, treća strana ne treba da bude u mogućnosti da zaključi koji ulazi u prstenu su već poznati kao potrošeni. To bi oslabilo zaštitu priuštenu prsten potpisima. Ako za sve osim jednog ulaza je poznato da su potrošeni, onda ulaz koji biva potrošen postaje očigledan, time poništavajući dejstvo prsten potpisa, koji čine jedan od tri glavna sloja privatnosti koje Caliber koristi.&lt;br&gt;Da bi pomogli da se izbegnu takvi ulazi, lista poznatih potrošenih ulaza se može koristiti kako se ne bi koristili u novim transakcijama. Takva lista se održava od strane Caliber projekta i dostupna na getcaliber.org veb sajtu, i možete je uneti tu listu ovde.&lt;br&gt;Alternatnivno, možete skenirati blokčejn (i blokčejn Menoro klonova koji koriste iste ključeve) samostalno korišćenjem caliber-blockchain-blackball alatke da napravite listu izlaza za koje je poznato da su potrošeni.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="143"/>
@@ -1413,12 +1413,12 @@ Stari fajl keša novčanika će biti preimenovan i može se povratiti kasnije.</
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="263"/>
-        <source>In order to avoid nullifying the protection afforded by Monero&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing Monero clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by Monero and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing Monero clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your Monero safely.&lt;br&gt;If you do not use a key-reusing Monero clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
-        <translation>Da bi se izbeglo poništavanje zaštite koju pružaju Monerovi prsten potpisi, izlaz ne bi trebalo trošiti sa različitim prstenovima na različitim blokčejnima. Dok ovo obično nije problem, može postati problem kada Monero klon koji ponovo koristi ključeve vam dozvoljava da potrošite postojeće izlaze. U ovom slučaju, potrebno je da obezbedite da ovi postojeći izlazi koriste isti prsten na oba blokčejna.&lt;br&gt;Ovo će automatski biti urađeno od Monera i drugog softvera koji ponovo koristi ključeve koji ne pokušava da vam namerno oduzme vašu privatnost.&lt;br&gt;Ako takođe koristite Monero klon koji ponovo koristi ključeve, i ovaj klon ne sadrži ovu zaštitu, idalje možete da obezbedite da su vaše transakcije zaštićene trošenjem prvo na klonu, a onda ručno dodavanjem prstena na ovoj stranici koja vam omogućava da potom bezbedno potrošite vaš Monero.&lt;br&gt;Ako ne koristite Monero klon koji ponovo koristi ključeve bez ovih bezbednosnih odlika, onda ne morate ništa da radite pošto će sve biti automatizovano.&lt;br&gt;</translation>
+        <source>In order to avoid nullifying the protection afforded by Caliber&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing Caliber clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by Caliber and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing Caliber clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your Caliber safely.&lt;br&gt;If you do not use a key-reusing Caliber clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
+        <translation>Da bi se izbeglo poništavanje zaštite koju pružaju Calibervi prsten potpisi, izlaz ne bi trebalo trošiti sa različitim prstenovima na različitim blokčejnima. Dok ovo obično nije problem, može postati problem kada Caliber klon koji ponovo koristi ključeve vam dozvoljava da potrošite postojeće izlaze. U ovom slučaju, potrebno je da obezbedite da ovi postojeći izlazi koriste isti prsten na oba blokčejna.&lt;br&gt;Ovo će automatski biti urađeno od Monera i drugog softvera koji ponovo koristi ključeve koji ne pokušava da vam namerno oduzme vašu privatnost.&lt;br&gt;Ako takođe koristite Caliber klon koji ponovo koristi ključeve, i ovaj klon ne sadrži ovu zaštitu, idalje možete da obezbedite da su vaše transakcije zaštićene trošenjem prvo na klonu, a onda ručno dodavanjem prstena na ovoj stranici koja vam omogućava da potom bezbedno potrošite vaš Caliber.&lt;br&gt;Ako ne koristite Caliber klon koji ponovo koristi ključeve bez ovih bezbednosnih odlika, onda ne morate ništa da radite pošto će sve biti automatizovano.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="285"/>
-        <source>This records rings used by outputs spent on Monero on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
+        <source>This records rings used by outputs spent on Caliber on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
         <translation>Ovo zapisuje prestenove korišćene od strane izlaza potrošenih na Moneru na lancu koji ponovo koristi ključeve, da bi se isti prsten mogao koristi kako bi se izbegli problemi privatnosti.</translation>
     </message>
     <message>
@@ -1936,8 +1936,8 @@ Ringsize: </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="619"/>
-        <source>Monero sent successfully</source>
-        <translation>Monero uspešno poslat</translation>
+        <source>Caliber sent successfully</source>
+        <translation>Caliber uspešno poslat</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="687"/>
@@ -2085,13 +2085,13 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <name>WizardConfigure</name>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="79"/>
-        <source>We’re almost there - let’s just configure some Monero preferences</source>
-        <translation>Skoro smo gotovi - još samo da podesimo par Monero prioriteta</translation>
+        <source>We’re almost there - let’s just configure some Caliber preferences</source>
+        <translation>Skoro smo gotovi - još samo da podesimo par Caliber prioriteta</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="97"/>
-        <source>Kickstart the Monero blockchain?</source>
-        <translation>Poguraj start Monero blokčejna?</translation>
+        <source>Kickstart the Caliber blockchain?</source>
+        <translation>Poguraj start Caliber blokčejna?</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="113"/>
@@ -2105,8 +2105,8 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="140"/>
-        <source>Disk conservation mode uses substantially less disk-space, but the same amount of bandwidth as a regular Monero instance. However, storing the full blockchain is beneficial to the security of the Monero network. If you are on a device with limited disk space, then this option is appropriate for you.</source>
-        <translation>Režim štednje diska koristi znatno manje prostora na disku, ali istu količinu protoka kao i normalna Monero instanca. Međutim, skladištenje kompletnog blokčejna je izuzetno značajno za sigurnost Monero mreže. Ako koristite uređaj sa ograničenim prostorom memorije, onda je ova opcija štednje prostora prikladna za Vas.</translation>
+        <source>Disk conservation mode uses substantially less disk-space, but the same amount of bandwidth as a regular Caliber instance. However, storing the full blockchain is beneficial to the security of the Caliber network. If you are on a device with limited disk space, then this option is appropriate for you.</source>
+        <translation>Režim štednje diska koristi znatno manje prostora na disku, ali istu količinu protoka kao i normalna Caliber instanca. Međutim, skladištenje kompletnog blokčejna je izuzetno značajno za sigurnost Caliber mreže. Ako koristite uređaj sa ograničenim prostorom memorije, onda je ova opcija štednje prostora prikladna za Vas.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="153"/>
@@ -2115,8 +2115,8 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="169"/>
-        <source>Mining secures the Monero network, and also pays a small reward for the work done. This option will let Monero mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
-        <translation>Rudarenje obezbeđuje sigurnost Monero mreže i isplaćuje malu nagradu za izvršen rad. Ova opcija pokreće Monero rudarenje dokle god se računar napaja direktno iz zida, bez baterije, i dokle god nije u upotrebi. Rudarenje prestaje po nastavku rada korisnika na računaru.</translation>
+        <source>Mining secures the Caliber network, and also pays a small reward for the work done. This option will let Caliber mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
+        <translation>Rudarenje obezbeđuje sigurnost Caliber mreže i isplaćuje malu nagradu za izvršen rad. Ova opcija pokreće Caliber rudarenje dokle god se računar napaja direktno iz zida, bez baterije, i dokle god nije u upotrebi. Rudarenje prestaje po nastavku rada korisnika na računaru.</translation>
     </message>
 </context>
 <context>
@@ -2147,8 +2147,8 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <name>WizardDaemonSettings</name>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="114"/>
-        <source>To be able to communicate with the Monero network your wallet needs to be connected to a Monero node. For best privacy it&apos;s recommended to run your own node.                         &lt;br&gt;&lt;br&gt;                         If you don&apos;t have the option to run your own node, there&apos;s an option to connect to a remote node.</source>
-        <translation>Vaš novčanik mora biti povezan sa Monero node-om kako bi komunikacija sa Monero mrežom bila moguća. Za najstrožu privatnost povežite se na svoj lokalni Monero node sa punim blokčejnom.                         &lt;br&gt;&lt;br&gt;                         Ukoliko niste u mogućnosti da pokrenete i koristite sopstveni, lokalni Monero node, uvek se možete povezati na udaljeni node.</translation>
+        <source>To be able to communicate with the Caliber network your wallet needs to be connected to a Caliber node. For best privacy it&apos;s recommended to run your own node.                         &lt;br&gt;&lt;br&gt;                         If you don&apos;t have the option to run your own node, there&apos;s an option to connect to a remote node.</source>
+        <translation>Vaš novčanik mora biti povezan sa Caliber node-om kako bi komunikacija sa Caliber mrežom bila moguća. Za najstrožu privatnost povežite se na svoj lokalni Caliber node sa punim blokčejnom.                         &lt;br&gt;&lt;br&gt;                         Ukoliko niste u mogućnosti da pokrenete i koristite sopstveni, lokalni Caliber node, uvek se možete povezati na udaljeni node.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="126"/>
@@ -2180,7 +2180,7 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <name>WizardDonation</name>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="93"/>
-        <source>Monero development is solely supported by donations</source>
+        <source>Caliber development is solely supported by donations</source>
         <translation>Razvoj Monera je potpomognut isključivo donacijama</translation>
     </message>
     <message>
@@ -2195,7 +2195,7 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="162"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Monero development. For instance, a 50% autodonation take a transaction fee of 0.005 XMR and add a 0.0025 XMR to support Monero development.</source>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Caliber development. For instance, a 50% autodonation take a transaction fee of 0.005 XMR and add a 0.0025 XMR to support Caliber development.</source>
         <translation>Uz svaku transakciju, mala provizija se naplaćuje. Ova opcija omogućava da uz dodatak male sume kao procenat te provizije pomognete razvoj Monera. Na primer, 50% auto-donacije od transakcione provizije od 0.005 XMR će dodati još 0.0025 XMR u svrhu pomoći razvoja Monera.</translation>
     </message>
     <message>
@@ -2205,8 +2205,8 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="190"/>
-        <source>Mining secures the Monero network, and also pays a small reward for the work done. This option will let Monero mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
-        <translation>Rudarenje obezbeđuje sigurnost Monero mreže i isplaćuje malu nagradu za izvršen rad. Ova opcija pokreće Monero rudarenje dokle god se računar napaja direktno iz zida, bez baterije, i dokle god nije u upotrebi. Rudarenje prestaje po nastavku rada korisnika na računaru.</translation>
+        <source>Mining secures the Caliber network, and also pays a small reward for the work done. This option will let Caliber mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
+        <translation>Rudarenje obezbeđuje sigurnost Caliber mreže i isplaćuje malu nagradu za izvršen rad. Ova opcija pokreće Caliber rudarenje dokle god se računar napaja direktno iz zida, bez baterije, i dokle god nije u upotrebi. Rudarenje prestaje po nastavku rada korisnika na računaru.</translation>
     </message>
 </context>
 <context>
@@ -2298,8 +2298,8 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="386"/>
-        <source>USE MONERO</source>
-        <translation>KORISTI MONERO</translation>
+        <source>USE CALIBER</source>
+        <translation>KORISTI CALIBER</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="399"/>
@@ -2419,8 +2419,8 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="76"/>
-        <source>Welcome to Monero!</source>
-        <translation>Monero Vam želi dobrodošlicu!</translation>
+        <source>Welcome to Caliber!</source>
+        <translation>Caliber Vam želi dobrodošlicu!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="87"/>
@@ -2509,8 +2509,8 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <name>WizardWelcome</name>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="73"/>
-        <source>Welcome to Monero!</source>
-        <translation>Monero Vam želi dobrodošlicu!</translation>
+        <source>Welcome to Caliber!</source>
+        <translation>Caliber Vam želi dobrodošlicu!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="83"/>
@@ -2704,8 +2704,8 @@ Indeks adrese za potrošnju: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="800"/>
-        <source>Monero sent successfully: %1 transaction(s) </source>
-        <translation>Monero uspešno poslat: %1 transakcija </translation>
+        <source>Caliber sent successfully: %1 transaction(s) </source>
+        <translation>Caliber uspešno poslat: %1 transakcija </translation>
     </message>
     <message>
         <location filename="../main.qml" line="830"/>
@@ -2733,7 +2733,7 @@ Indeks adrese za potrošnju: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="874"/>
-        <source>This address received %1 monero, with %2 confirmation(s).</source>
+        <source>This address received %1 caliber, with %2 confirmation(s).</source>
         <translation>Ova adresa je primila %1 Monera, sa %2 potvrda.</translation>
     </message>
     <message>
@@ -2808,8 +2808,8 @@ Indeks adrese za potrošnju: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="1790"/>
-        <source>New version of monero-wallet-gui is available: %1&lt;br&gt;%2</source>
-        <translation>Nova verzija monero-wallet-gui je dostupna: %1&lt;br&gt;%2</translation>
+        <source>New version of caliber-wallet-gui is available: %1&lt;br&gt;%2</source>
+        <translation>Nova verzija caliber-wallet-gui je dostupna: %1&lt;br&gt;%2</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1822"/>
@@ -2844,7 +2844,7 @@ Indeks adrese za potrošnju: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="871"/>
-        <source>This address received %1 monero, but the transaction is not yet mined</source>
+        <source>This address received %1 caliber, but the transaction is not yet mined</source>
         <translation>Ova adresa je primila %1 monera, ali transakcija još uvek nije potvrđena</translation>
     </message>
     <message>
@@ -2874,8 +2874,8 @@ Indeks adrese za potrošnju: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="1298"/>
-        <source>Monero</source>
-        <translation>Monero</translation>
+        <source>Caliber</source>
+        <translation>Caliber</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1448"/>
