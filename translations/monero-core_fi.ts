@@ -2187,8 +2187,8 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="162"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Caliber development. For instance, a 50% autodonation take a transaction fee of 0.005 XMR and add a 0.0025 XMR to support Caliber development.</source>
-        <translation>Jokaisen siirron yhteydessä veloitetaan pieni siirtokulu. Voit lisäksi tukea Calibern kehitystä valitsemalla tässä lisäsumman (prosenttiosuutena siirtokulusta). Esimerkiksi 50% automaattilahjoitus lahjoittaa 0.0025 XMR siirtokulun ollessa 0.005 XMR.</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Caliber development. For instance, a 50% autodonation take a transaction fee of 0.005 CAL and add a 0.0025 CAL to support Caliber development.</source>
+        <translation>Jokaisen siirron yhteydessä veloitetaan pieni siirtokulu. Voit lisäksi tukea Calibern kehitystä valitsemalla tässä lisäsumman (prosenttiosuutena siirtokulusta). Esimerkiksi 50% automaattilahjoitus lahjoittaa 0.0025 CAL siirtokulun ollessa 0.005 CAL.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="174"/>

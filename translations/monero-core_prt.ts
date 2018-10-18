@@ -2182,8 +2182,8 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="162"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Caliber development. For instance, a 50% autodonation take a transaction fee of 0.005 XMR and add a 0.0025 XMR to support Caliber development.</source>
-        <translation>Fer every XM-ARGHHH transact&apos;on, a wee transaction fee be charg&apos;d. T&apos;is option be lettin&apos; ye add an additional amount, as a percent&apos;ge o&apos; that fee, to ye transaction to supp&apos;rt Caliber developm&apos;nt. For instanc&apos;, a 50% autodonation be takin&apos; a transaction fee o&apos; 0.005 XMR and addin&apos; a 0.0025 XMR to support thee Caliber development ye tight-arsed lobst&apos;r.</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Caliber development. For instance, a 50% autodonation take a transaction fee of 0.005 CAL and add a 0.0025 CAL to support Caliber development.</source>
+        <translation>Fer every XM-ARGHHH transact&apos;on, a wee transaction fee be charg&apos;d. T&apos;is option be lettin&apos; ye add an additional amount, as a percent&apos;ge o&apos; that fee, to ye transaction to supp&apos;rt Caliber developm&apos;nt. For instanc&apos;, a 50% autodonation be takin&apos; a transaction fee o&apos; 0.005 CAL and addin&apos; a 0.0025 CAL to support thee Caliber development ye tight-arsed lobst&apos;r.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="174"/>
